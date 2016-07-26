@@ -1,0 +1,8 @@
+{
+  "name": "Algaculture",
+  "version": "0.1.0",
+  "title": "Algaculture",
+  "author": "Fortanono",
+  "description": "Adds an algae processing system as a middle ground between fuel and solar. The creation process pollutes some but the generator itself does not, and it produces about as much power as a Boiler.",
+  "factorio_version": "0.13"
+}
